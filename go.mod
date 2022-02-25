@@ -14,7 +14,7 @@ require (
 	github.com/alecthomas/units v0.0.0-20211218093645-b94a6e3cc137 // indirect
 	github.com/armon/consul-api v0.0.0-20180202201655-eb2c6b5be1b6 // indirect
 	github.com/bazelbuild/buildtools v0.0.0-20211007154642-8dd79e56e98e
-	github.com/cheggaaa/pb/v3 v3.0.5
+	github.com/cheggaaa/pb/v3 v3.0.8
 	github.com/containerd/containerd v1.4.3 // indirect
 	github.com/coreos/go-oidc v2.2.1+incompatible
 	github.com/cybozu-go/aptutil v1.4.2-0.20200413001041-3f82d8384481
