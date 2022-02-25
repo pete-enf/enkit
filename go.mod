@@ -24,7 +24,7 @@ require (
 	github.com/docker/go-connections v0.4.0 // indirect
 	github.com/docker/go-units v0.4.0 // indirect
 	github.com/dustin/go-humanize v1.0.0
-	github.com/fatih/color v1.12.0
+	github.com/fatih/color v1.13.0
 	github.com/fullstorydev/grpcurl v1.8.5 // indirect
 	github.com/go-git/go-git/v5 v5.1.0
 	github.com/go-kit/kit v0.12.0 // indirect
